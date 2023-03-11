@@ -1,0 +1,132 @@
+body{
+    color: #40414E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+hr{
+    border: dotted #EAF6F6 6px; 
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+a{
+    color: #11999e;
+    font-family: 'Montseerrat' , cursive;
+    margin: 20px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+.bottom-cloud{
+    position: absolute;
+   left:300px;
+}
+.top-cloud{
+ position: absolute;
+ right: 300px;
+top: 80px;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66BFBF;
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #181823;
+    font-family: 'Montserrat', sans-serif;
+}
+.achi list{
+    font-family: 'Montserrat', sans-serif;
+}
+.first-container{
+    background-color:#E4F9F5;
+    position: relative;
+    padding-top: 150px;
+}
+
+.pro{
+    color: gold;
+}
+.languages{
+    color: antiquewhite;
+}
+
+.skill-row{
+margin: 100px auto;
+line-height: 2;
+}
+.programmingimage{
+    width: 15%;
+    float: left;
+    margin-left: 100px;
+    margin-right: 40px;
+}
+.achievments{
+    margin-left: 40px;
+    width: 15%;
+    float: right;
+    margin-right: 100px;
+}
+.skillul{
+    text-align: left;
+}
+.achilist{
+  
+    margin-left:770px;
+}
+.middle-container{
+    padding: 100px 0;
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.ach2{
+    width: 40%;
+}
+.ach1{
+    width: 40%;
+}
+.cont1{
+    margin: 40px auto 50px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .copyright{
+    color: #EAF6F6;
+   font-size: 0.75rem;
+   padding: 20px 0;
+  }
